@@ -1,0 +1,69 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+*.env
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.pyvenv/
+
+# Distribution files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and local files
+*.log
+*.sqlite3
+*.db
+*.pid
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings (e.g., VSCode)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache files
+.cache/
+.pytest_cache/
+*.mypy_cache/
+*.hypothesis/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Testing artifacts
+.tox/
+.nox/
+.pytest_cache/
+
+# MacOS system files
+.DS_Store
+
+# Temporary files
+*.bak
+*.tmp
+
+# Ignore data files and secrets
+*.csv
+*.sqlite
+*.pkl
+*.h5
+*.model
+*.pkl
+config.yaml
